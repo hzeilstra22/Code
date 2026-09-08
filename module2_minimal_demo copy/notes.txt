@@ -1,0 +1,24 @@
+Module 2 Classification and Neural Network Basics
+
+supervised learning: input label, history to predict future
+Classification predicts categories
+Regression assumes normality
+    logistic regression: is binary
+
+Decision Boundaries
+    seperate data into regions
+    linear boundariesa straight lines that work if data is seperable
+
+Neural Network Basics
+    Built from perceptrons (simplified neurons)
+    Process:
+        1. inputs * weights
+        2. Weighted Sum + Bias
+        3. Activation Function
+        4. Output
+
+Vocabulary
+    Weights: strength of each input
+    Bias: Baseline Adjustment
+
+
