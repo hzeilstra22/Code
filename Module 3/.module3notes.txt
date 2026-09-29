@@ -1,0 +1,17 @@
+Perceptron
+    A linear prediction model for classification
+    Uses a threshold (activation) to decide classification 
+    works for linearly seperable problems but struggles with non-linear cases
+
+Perceptron Update Rule
+    Compute prediction 
+    compare to target
+    update weights by small step
+
+perceptrons -> MLP
+    add hidden layers to encode latent relationships
+    activations between layers = non-linear power
+    universal approximation theorem: given enough layers any continuous function can be modeled
+
+XOR-ouput 1 when inputs disagree, 0 when they agree
+    
