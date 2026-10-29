@@ -1,0 +1,8 @@
+All 3 of my models were able to achieve a 100% accuracy with 200 epochs. I did experiment to see how they would perform with fewer,
+and with 100 epochs my 1 hidden perceptron model only reached 50% accuracy while the 2 hidden and 3 hidden still reached 100%. 
+The big difference in the performance of the models is the loss scores each got. Each hidden layer I added improved the loss by about .3. 
+The three hidden layer model specificaly achieved almost a 0 loss score meaning it predicted each outcome correctly with almost 100% confidence.
+
+Using this approach rather than the manual approach is much more efficient and saves time and computing power. This code is simpler, and runs faster,
+saving significant time. It also was way more accurate. With the manual approach I was unable to reach 100% accuracy even with 1,000,000 iterations.
+However, using tensor flow I was able to reach 100% accuracy with just 1 layer and 200 runs or 2 layers and just 100 runs.

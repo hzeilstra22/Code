@@ -1,0 +1,5 @@
+3 hidden perceptron
+Accuracy: 1.0
+Loss: 0.01559313666075468
+Predictions: [[0], [1], [1], [0], [1], [0], [0], [1]]
+Actual: [0 1 1 0 1 0 0 1]
